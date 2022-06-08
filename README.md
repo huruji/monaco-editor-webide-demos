@@ -6,6 +6,10 @@
 
 ![demo](./assets/json-validation/1.gif)
 
+ref:
+
+https://www.tabnine.com/code/javascript/classes/monaco-editor/Uri
+
 
 
 
