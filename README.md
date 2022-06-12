@@ -10,6 +10,17 @@ ref:
 
 https://www.tabnine.com/code/javascript/classes/monaco-editor/Uri
 
+## yaml 代码提示和检查
+
+## lsp
+
+## dap
+
+## 协作绑定 yjs
+
+
+## ui定制
+
 
 
 
